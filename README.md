@@ -1,6 +1,6 @@
 This project implements **Dijkstra's Algorithm** in C to find the **shortest distance from a source vertex to all other vertices** in a weighted graph.
 
-The graph is represented using an **Adjacency Matrix**.
+The graph is represented using an **Adjacency Matrix**
 
 ---
 
